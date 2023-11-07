@@ -27,7 +27,7 @@ $project_source_dir/build/app\
   --ovl_len_bin_size 500
 ```
 
-example output:
+The example output shows indicators among various ranges of the criteria `min_ovl_len` (described in [the paper](https://drive.google.com/file/d/1W2BfU8hhQ_vPABtiED_d9jeyAClUYTBT/view?usp=sharing)) :
 
 ```
 ovlen, #pos, true_pos, #false_pos
@@ -59,4 +59,4 @@ ovlen, sens, prec, f1sc
 5800, 0.9949, 1, 0.9974
 ```
 
-And parts of the result could be further visualized as the figures shown in Results of ![the paper](https://drive.google.com/file/d/1W2BfU8hhQ_vPABtiED_d9jeyAClUYTBT/view?usp=sharing)
+And parts of the result could be further visualized as the figures shown in Results of [the paper](https://drive.google.com/file/d/1W2BfU8hhQ_vPABtiED_d9jeyAClUYTBT/view?usp=sharing)
