@@ -59,4 +59,4 @@ ovlen, sens, prec, f1sc
 5800, 0.9949, 1, 0.9974
 ```
 
-And the result could be further visualized as figures in Results of ![the paper](https://drive.google.com/file/d/1W2BfU8hhQ_vPABtiED_d9jeyAClUYTBT/view?usp=sharing)
+And parts of the result could be further visualized as the figures shown in Results of ![the paper](https://drive.google.com/file/d/1W2BfU8hhQ_vPABtiED_d9jeyAClUYTBT/view?usp=sharing)
