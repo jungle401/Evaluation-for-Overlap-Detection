@@ -1,4 +1,4 @@
-# REAL
+# Overlap Evaluation
 
 Evaluation for TGS reads overlap detection.
 
